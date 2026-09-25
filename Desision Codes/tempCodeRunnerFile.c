@@ -1,0 +1,1 @@
+  bonus=0.1*salary;
